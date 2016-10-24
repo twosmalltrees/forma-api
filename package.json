@@ -1,0 +1,19 @@
+{
+  "name": "forma-api",
+  "version": "1.0.0",
+  "description": "forma api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twosmalltrees/forma-api.git"
+  },
+  "author": "Harrison Reid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twosmalltrees/forma-api/issues"
+  },
+  "homepage": "https://github.com/twosmalltrees/forma-api#readme"
+}
